@@ -2,7 +2,7 @@
 
 **Requirements:**
 
-JDK
-Netbeans
-MySQL Workbench
+  - JDK
+  - Netbeans
+  - MySQL Workbench
 
